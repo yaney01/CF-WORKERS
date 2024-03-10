@@ -1,4 +1,4 @@
-34.150.33.254:4466#HK-Google Cloud
+35.220.235.83:8331#HK-Google Cloud
 8.217.85.212:14405#HK-45102-Alibaba
 124.202.166.165:443#CN-Krypt Technologies
 125.229.1.204:23393#TW-Chunghwa Telecom
