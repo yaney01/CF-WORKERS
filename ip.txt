@@ -1,5 +1,4 @@
 34.96.169.1:28817#🇭🇰 HK-Google Cloud
-114.214.202.60:8443#🇭🇰 HK-China Education 
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
 34.80.100.64:18443#🇼🇸 TW-Google Cloud
 104.43.108.189:10086#🇸🇬 SG-Microsoft Azure
