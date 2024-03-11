@@ -1,8 +1,9 @@
 112.47.43.188:51300#🇨🇳 CN-China Mobile
 34.96.169.1:28817#🇭🇰 HK-Google Cloud
-8.218.110.180:2087#🇭🇰 HK-45102-Alibaba
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
-34.80.100.64:18443#🇼🇸 TW-Google Cloud
+35.236.140.97:3000#🇼🇸 TW-Google Cloud
+34.80.100.64:18443#🇼🇸 TW-Google Cloud1
 104.43.108.189:10086#🇸🇬 SG-Microsoft Azure
 147.78.247.26:34237#🇯🇵 JP-xTom
 154.21.82.7:50008#🇺🇸 US-DMIT
+39.165.243.29:28367#🇺🇸 Henan Mobile Communications Co
