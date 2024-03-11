@@ -1,4 +1,6 @@
 112.47.43.188:51300#🇨🇳 CN-China Mobile
+101.78.244.128:12313#🇭🇰 HK-Hong Kong Broadband Network
+
 34.96.169.1:28817#🇭🇰 HK-Google Cloud
 8.218.204.128:2083#🇭🇰 HK-Alibaba
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
