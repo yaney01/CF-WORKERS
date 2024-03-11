@@ -6,4 +6,3 @@
 104.43.108.189:10086#🇸🇬 SG-Microsoft Azure
 147.78.247.26:34237#🇯🇵 JP-xTom
 154.21.82.7:50008#🇺🇸 US-DMIT
-39.165.243.29:28367#🇺🇸 Henan Mobile Communications Co
