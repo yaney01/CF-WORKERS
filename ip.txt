@@ -1,14 +1,14 @@
 112.47.43.188:51300#🇨🇳 CN-China Mobile
 101.78.244.128:12313#🇭🇰 HK-Broadband Network
-8.218.204.128:2083#🇭🇰 HK-Alibaba
-8.217.250.5:2053#🇭🇰 HK-Alibaba2
+8.217.250.5:2053#🇭🇰 HK-Alibaba
 103.234.53.114:37875#🇭🇰 HK-Cnservers LLC
 202.81.231.30:55576#🇭🇰 HK-2012 Netfront
+35.201.193.97:443#🇼🇸 TW-Google Cloud
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
 202.39.212.181:28731#🇼🇸 TW-Chunghwa Telecom2
 118.163.101.44:44332#🇼🇸 TW-Chunghwa Telecom3
 45.137.181.132:443#🇯🇵 JP-Akari Networks
 20.243.251.236:56209#🇯🇵 JP-Microsoft Azure
-45.137.181.132:443#🇯🇵 JP-Akari Networks
+45.251.240.213:34237#🇯🇵 JP-xTom
 43.128.110.33:34237#🇸🇬 SG-Tencent cloud
 64.64.233.88:57221#🇺🇸 US-Fiber-logic
