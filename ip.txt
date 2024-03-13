@@ -7,7 +7,6 @@
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
 202.39.212.181:28731#🇼🇸 TW-Chunghwa Telecom2
 118.163.101.44:44332#🇼🇸 TW-Chunghwa Telecom3
-45.137.181.132:443#🇯🇵 JP-Akari Networks
 20.243.251.236:56209#🇯🇵 JP-Microsoft Azure
 45.251.240.213:34237#🇯🇵 JP-xTom
 43.128.110.33:34237#🇸🇬 SG-Tencent cloud
