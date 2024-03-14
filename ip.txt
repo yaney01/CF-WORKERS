@@ -1,10 +1,10 @@
-112.47.43.188:51300#🇨🇳 CN-China Mobile
 101.78.244.128:12313#🇭🇰 HK-Broadband Network
 8.217.250.5:2053#🇭🇰 HK-Alibaba
 47.75.101.0:3443#🇭🇰 HK-Alibaba1
 43.154.34.74:1935#🇭🇰 HK-Tencent cloud
 202.81.231.30:55576#🇭🇰 HK-2012 Netfront
-35.201.193.97:443#🇼🇸 TW-Google Cloud
+35.201.203.106:443#🇼🇸 TW-Google Cloud
+35.201.193.97:443#🇼🇸 TW-Google Cloud1
 125.229.1.204:23393#🇼🇸 TW-Chunghwa Telecom
 202.39.212.181:28731#🇼🇸 TW-Chunghwa Telecom2
 118.163.101.44:44332#🇼🇸 TW-Chunghwa Telecom3
